@@ -6,9 +6,9 @@ const char* ssid = "ur_ssid_here_nub_affiq";
 const char* password = "69420";
 
 //Your IP address or domain name with URL path
-const char* serverName = "http://esp32p.000webhostapp.com/esp-outputs-action.php?action=outputs_state&board=1";
+const char* serverName = "ur_webpage_url_here";
 
-// Update interval time set to 5 seconds
+// Update interval time set to 1 seconds
 const long interval = 1;
 unsigned long previousMillis = 0;
 
